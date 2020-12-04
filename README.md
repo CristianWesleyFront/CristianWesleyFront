@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ## Olá, meu nome é Cristian Correia 👨‍💻
+ ## Olá, meu nome é Cristian Correia 👨‍💻 🦁
 
 - :computer: Atualmente estou estudando: Typescript, ReactJS Avançado, NestJS, CSS Avançado, Figman e teorias básicas de UX & UI.
 - :mortar_board: Cursando Técnologo em Análise e Desenvolvimento de Sistemas - 4º Semestre.
