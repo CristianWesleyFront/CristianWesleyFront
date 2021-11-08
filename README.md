@@ -16,9 +16,9 @@
 ## 
 
 - :computer: Atualmente estou estudando: Typescript, ReactJS Avançado, NestJS, CSS Avançado, Figman e teorias básicas de UX & UI.
-- :mortar_board: Cursando Técnologo em Análise e Desenvolvimento de Sistemas - 5º Semestre.
+- :mortar_board: Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas - 5º Semestre.
 - 💼 Analista Desenvolvedor Sênior, Farmácias Pague Menos.
-- 🔎 Robbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
+- 🔎 Hobbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
 
 <div align="center">
   <a href="https://github.com/engenny">
