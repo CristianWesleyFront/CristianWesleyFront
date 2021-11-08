@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianWesleyFront&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
+ ## ⚔ Principais Tecnoligias 
 
  <div style="display: inline_block"><br>
   <img align="center" alt="bia-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -44,5 +45,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianwesley.developer@gmail.com)](mailto:cristianwesley.developer@gmail.com)
 
   
-  ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/CristianWesleyFront/CristianWesleyFront/blob/output/github-contribution-grid-snake.svg
   
