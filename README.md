@@ -1,4 +1,4 @@
- ## Olá, meu nome é Cristian Correia <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+a ## Olá, meu nome é Cristian Correia <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
@@ -6,7 +6,7 @@
 
 - :computer: Atualmente estou estudando: Typescript, ReactJS Avançado, NestJS, CSS Avançado, Figman e teorias básicas de UX & UI.
 - :mortar_board: Cursando Técnologo em Análise e Desenvolvimento de Sistemas - 5º Semestre.
-- 💼 : Analista Desenvolvedor Sênior, Farmácias Pague Menos.
+- 💼 Analista Desenvolvedor Sênior, Farmácias Pague Menos.
 - 🔎 Robbies: Programar, Jogos, Filmes & Series, Animes & Mangas.
 
 <div align="center">
@@ -34,13 +34,16 @@
   
   
 
-  ##
+  ## 
 
-
-  ### Contato:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-correia-75866117b/)](https://www.linkedin.com/in/cristian-correia-75866117b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianwesley.developer@gmail.com)](mailto:cristianwesley.developer@gmail.com)
+<div>
+   <a href="https://www.youtube.com/channel/UC5tNKdyNf-IHcBnKmadHPXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/cristianwsly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/crisleywestian" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/#6476" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:cristianwesley.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cristian-correia-75866117b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
   
 ![Snake animation](https://github.com/CristianWesleyFront/CristianWesleyFront/blob/output/github-contribution-grid-snake.svg)
