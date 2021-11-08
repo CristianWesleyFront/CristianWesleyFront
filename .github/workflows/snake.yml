@@ -5,10 +5,16 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+  push:
+    branches:
+    - master
+
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       # Snake Animation
       - uses: Platane/snk@master
