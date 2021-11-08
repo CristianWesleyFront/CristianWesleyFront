@@ -9,7 +9,8 @@
  	<a href="https://www.twitch.tv/crisleywestian" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/#6476" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cristianwesley.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristian-correia-75866117b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cristian-correia-75866117b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/CrisCorreiaDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 
@@ -46,7 +47,7 @@
 
   ## 
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cristianwesley&cover_image=true&theme=natemoo-re&bar_color=b14eae&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
 ![Snake animation](https://github.com/CristianWesleyFront/CristianWesleyFront/blob/output/github-contribution-grid-snake.svg)
   
